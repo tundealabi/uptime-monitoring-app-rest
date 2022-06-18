@@ -1,13 +1,8 @@
 {
   "firstName": "John",
   "lastName": "Smith",
-  "phone": "5551234567",
+  "phone": "4158675309",
   "hashedPassword": "56310559855ef258fafc806a12df191e9f5d171f2897e5e234591a6742a0f0f0",
   "tosAgreement": true,
-  "checks": [
-    "6uce9qa5mk4l06o970xx",
-    "k4uyg3ecll2mfwyk5bb6",
-    "h9d4f2v63p48s9o8x5a8",
-    "v2djj5wwwkweqj3mfdxo"
-  ]
+  "checks": ["9jcbjoj8rgdv890r1s43", "dho452sveqi6l38vxo1g"]
 }
